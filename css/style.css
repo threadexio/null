@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&family=IBM+Plex+Mono&display=swap');
 /*@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css');*/
 
-@import url('/css/sidebar.css');
-@import url('/css/nerd-fonts-generated.css');
+@import url('sidebar.css');
+@import url('nerd-fonts-generated.css');
 
 :root {
 	--ubuntu: 'Ubuntu', sans-serif;
